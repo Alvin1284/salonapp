@@ -8,8 +8,6 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-  
-  pool:
   vm2Image: windows-latest
 
 steps:
